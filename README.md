@@ -2,7 +2,10 @@
 
 > **Seven reusable Claude Code primitives for memory, coordination, steering, critique, variation, and refinement.**
 
-This project packages seven Claude Code skills as installable, ready-to-use commands. They are inspired by the practical patterns demonstrated in the YouTube video **"The 7 Claude Code Skills Everyone Should Know"** — watch it at <https://www.youtube.com/watch?v=UpgjdQJShWg&t=14s>.
+This project packages seven Claude Code skills as installable, ready-to-use commands. They are inspired by the practical patterns demonstrated in Jay E's YouTube video **"The 7 Claude Code Skills Everyone Should Know"**.
+
+> **Watch Jay E's original video** to see all seven skills demonstrated in action — it's the best way to understand how each one feels in a real workflow:
+> **<https://www.youtube.com/watch?v=UpgjdQJShWg&t=14s>**
 
 ---
 
