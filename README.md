@@ -10,6 +10,8 @@ This project packages seven Claude Code skills as installable, ready-to-use comm
 
 The seven skills are not independent tricks. They form a closed feedback loop that makes every Claude Code session better than the last.
 
+<video src="https://github.com/user-attachments/assets/612223ed-4e85-4e15-9364-5a165bc4d034" controls width="100%"></video>
+
 ![7 Claude Code Skills infographic](claude_code_seven_skills.jpg)
 
 ```
