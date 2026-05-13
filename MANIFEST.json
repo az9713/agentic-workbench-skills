@@ -1,0 +1,47 @@
+{
+  "bundle": "agentic-workbench-skills",
+  "version": "0.1.0",
+  "origin": "Reverse-engineered from transcript descriptions; not proprietary source files.",
+  "skills": [
+    {
+      "name": "calibrate",
+      "path": "skills/calibrate/SKILL.md",
+      "function": "Session-to-memory calibration"
+    },
+    {
+      "name": "coordinate",
+      "path": "skills/coordinate/SKILL.md",
+      "function": "Shared project workspace creation"
+    },
+    {
+      "name": "onboard",
+      "path": "skills/onboard/SKILL.md",
+      "function": "Load existing shared project context"
+    },
+    {
+      "name": "align",
+      "path": "skills/align/SKILL.md",
+      "function": "Clarifying-question alignment"
+    },
+    {
+      "name": "devil",
+      "path": "skills/devil/SKILL.md",
+      "function": "Contrarian critique and risk surfacing"
+    },
+    {
+      "name": "burst",
+      "path": "skills/burst/SKILL.md",
+      "function": "Generate multiple meaningful variants"
+    },
+    {
+      "name": "tweak",
+      "path": "skills/tweak/SKILL.md",
+      "function": "Interactive design sliders and bake patches"
+    }
+  ],
+  "workspace_template": "workspace-templates/shared/projects/_template",
+  "install_scripts": [
+    "scripts/install.sh",
+    "scripts/install.ps1"
+  ]
+}
