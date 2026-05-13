@@ -15,6 +15,8 @@ The seven skills are not independent tricks. They form a closed feedback loop th
 
 <video src="https://github.com/user-attachments/assets/612223ed-4e85-4e15-9364-5a165bc4d034" controls width="100%"></video>
 
+*Demo video generated with [HyperFrames](https://hyperframes.heygen.com).*
+
 ![7 Claude Code Skills infographic](claude_code_seven_skills.jpg)
 
 ```
